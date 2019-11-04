@@ -1,10 +1,10 @@
 {
   "response": [
     {
-      "filename": "lineage-14.1-20191003-UNOFFICIAL-Sultan-bacon.zip",
-      "url": "https://github.com/den-ser/android_releases/releases/download/release/lineage-14.1-20191003-UNOFFICIAL-Sultan-bacon.zip",
-      "md5sum": "d6acc971db6d02fea9a0ddce90bff053",
-      "datetime": 1570120129,
+      "filename": "lineage-14.1-20191103-UNOFFICIAL-Sultan-bacon.zip",
+      "url": "https://github.com/den-ser/android_releases/releases/download/release/lineage-14.1-20191103-UNOFFICIAL-Sultan-bacon.zip",
+      "md5sum": "f48378a3474bfb0939eb55fd5a75d731",
+      "datetime": 1572807447,
       "romtype": "unofficial",
       "version": "14.1"
     }
