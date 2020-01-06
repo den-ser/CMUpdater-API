@@ -1,10 +1,10 @@
 {
   "response": [
     {
-      "filename": "lineage-14.1-20190707-UNOFFICIAL-Sultan-oneplus3.zip",
-      "url": "https://github.com/den-ser/android_releases/releases/download/release/lineage-14.1-20190707-UNOFFICIAL-Sultan-oneplus3.zip",
-      "md5sum": "d74b8c0ab31fe46d135a7dac56f2ec3a",
-      "datetime": 1562486189,
+      "filename": "lineage-14.1-20200106-UNOFFICIAL-Sultan-oneplus3.zip",
+      "url": "https://github.com/den-ser/android_releases/releases/download/release/lineage-14.1-20200106-UNOFFICIAL-Sultan-oneplus3.zip",
+      "md5sum": "d15e315ee2d58dbead22719a63180967",
+      "datetime": 1578336920,
       "romtype": "unofficial",
       "version": "14.1"
     }
